@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%20to%20Vinay'z%20GitHub!&reversal=true&textBg=false&animation=twinkling&fontSize=60"/>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=VinZCodz&label=VinZCodz&color=orange&style=flat" alt="VinZCodz" /> </p>
-<h1 align="center"> Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Vinay Here</h1>
+<h1 align="center"> Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Vinay Here</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;%20AI%20|%20ML%20Enthusiast;Pro-Active+Learner;Love+Writing+Code&center=true&width=500&height=50&font=georgia"></a>
 </p>
